@@ -1,2 +1,3 @@
-# ga-customer-revenue-prediction
-Code for the 2018 Kaggle challenge: Google Analytics Customer Revenue Prediction
+# house-prices
+Code for the Kaggle challenge: House Prices
+
